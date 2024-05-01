@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FFE8FA;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #CE58B4;
+}
+
+ol{
+    display: flex;
+    flex-direction: row;
+}
+
+ol a{
+    margin: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.pas{
+    width: 300px;
+    height: 245px;
+    position: absolute; top: 110px;
+    margin: 5px;
+}
+
+.nam{
+    position: absolute; top: 92px; left: 340px;
+
+}
+
+.rec{
+    position: absolute; top: 125px; left:340px; right: 100px;
+    font-weight: 100;
+    text-align: justify;
+}
+
+
+.ing{
+    position: absolute; top: 215px; left: 340px;
+}
+
+.oli{
+  position: absolute;  top: 255px; left: 315px;
+    
+}
+
+.pasos{
+    position: absolute;  top: 485px; left: 340px;
+}
+
+.pasos1{
+    position: absolute;  top: 445px; left: 340px;
+}
+
+.nam2{
+    position: absolute; top: 625px; left: 340px;
+}
+
+.rec2{
+    position: absolute; top: 665px; left:340px; right: 100px;
+    font-weight: 100;
+    text-align: justify;
+}
+
+.rdc{
+    width: 300px;
+    height: 251px;
+    position: absolute; left: 0px; top: 650px
+}
+
+
+
+.nam{
+    position: absolute; top: 92px; left: 340px;
+
+}
+
+.rec{
+    position: absolute; top: 125px; left:340px; right: 100px;
+    font-weight: 100;
+    text-align: justify;
+}
+
+
+.ing2{
+    position: absolute; top: 745px; left: 340px;
+}
+
+.oli2{
+  position: absolute;  top: 785px; left: 315px;
+    
+}
+
+.pasos2{
+    position: absolute;  top: 955px; left: 340px;
+}
+
+.pasos22{
+    position: absolute;  top: 1000px; left: 340px;
+}

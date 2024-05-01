@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FFE8FA;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #CE58B4;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+}
+
+ul a{
+    margin: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+
+.h1{
+    position: absolute;
+    position: absolute; top: 85px; left: 450px;
+}
+
+p{
+    position: absolute; top: 140px; left: 440px; right: 100px;
+    margin: 15px;
+    text-align: justify;
+}
+
+.p{
+    position: absolute; right: 100px;
+}
+
+img{
+    width: 400px;
+    height: auto;
+    position: absolute; 
+    margin: 20px;
+}
